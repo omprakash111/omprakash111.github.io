@@ -6,19 +6,10 @@ import Om from "./Om";
 function App() {
   return (
     <div className="App">
-    <Om />
-    <Om />
-    <Om />
-    <Om />
-    <Om />
-    <Om />
-    <Om />
-    <Om />
-    <Om />
-    <Om />
-    <Om />
-        <h1>HELLO HOMIES</h1>
-        <Om />
+
+        <h1>HELLO! I`M  OM PRAKASH</h1>
+        <h2 className="bruh">THIS IS MY PERSONAL PORTFOLIO</h2>
+
     </div>
   );
 }

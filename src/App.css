@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+.bruh{
+  animation: myname infinite 3s;
+}
+
+
+@keyframes myname {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(2);
+  }
+}
